@@ -3,7 +3,11 @@
 ._*
 .Trashes
 Thumbs.db
+*/.cache/*
 /data/*
 */.ipynb_checkpoints/*
 *.csv
 *.pyc
+*~
+/repo_refactoring/code/debug/*
+*.pickle
